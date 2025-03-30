@@ -5,3 +5,4 @@ Izbrisav nesto i go dodadov ova!
 Eve sega nesto najnov pred da probame granki!
 
 Ova go editiram od GitHub!
+Ova e za da izvezbam pull!
